@@ -1,4 +1,4 @@
-## 🐶 mim의 댕댕이 농장
+## mim의 동물농장
 
 <a href="https://github.com/devxb/gitanimals">
   <img
