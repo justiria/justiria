@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **justiria/justiria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🐶 mim의 댕댕이 농장
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/farms/justiria"
+    width="900"
+    height="300"
+  />
+</a>
